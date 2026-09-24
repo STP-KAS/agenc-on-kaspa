@@ -1,0 +1,5 @@
+node_modules/
+engine/target/
+script/tn10-receipt.local.json
+*.local.json
+.env

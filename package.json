@@ -1,0 +1,13 @@
+{
+  "name": "agenc-on-kaspa",
+  "private": true,
+  "type": "module",
+  "description": "A Kaspa reading of the AgenC escrow. Experimental. Not advice.",
+  "scripts": {
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "license": "MIT"
+}
