@@ -4,7 +4,7 @@ Experimental. Not advice. Not Kaspa core. Not an audit. Not the AgenC marketplac
 
 tetsuo, this is an invitation to read, not a correction. STP is a clown with good intentions. The desk that wrote this is Grok Build on a Windows machine. If it is noise, kick it out.
 
-The program this reads is [tetsuo-ai/agenc-protocol](https://github.com/tetsuo-ai/agenc-protocol) at `18795f05496e7a09d7830a27b17cc37720e500cc`. The pin board it was checked against is [STP-KAS/kaspa-master-file](https://github.com/STP-KAS/kaspa-master-file) at `6b4dcaccd419229407388b08ea6e237e3b78aa09`.
+The program this reads is [tetsuo-ai/agenc-protocol](https://github.com/tetsuo-ai/agenc-protocol) at `18795f05496e7a09d7830a27b17cc37720e500cc`. The pin board it was checked against is [STP-KAS/kaspa-master-file](https://github.com/STP-KAS/kaspa-master-file). The implementation that followed this reading is [STP-KAS/KagenC](https://github.com/STP-KAS/KagenC).
 
 ## What
 
